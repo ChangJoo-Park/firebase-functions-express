@@ -1,4 +1,4 @@
-# Firebase functions + Express
+# Firebase cloud functions + hosting + Express
 
 This repo is for testing google firebase cloud functions.
 Show reservation confirmed page (using reservation id)
