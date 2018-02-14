@@ -3,6 +3,14 @@
 This repo is for testing google firebase cloud functions.
 Show reservation confirmed page (using reservation id)
 
+When request with reservation_id (**0000** only) successfully
+
+https://us-central1-fir-function-express.cloudfunctions.net/app/reservations/0000
+
+When request failed (not found)
+
+https://us-central1-fir-function-express.cloudfunctions.net/app/not-found
+
 ## Installation
 
 ```bash
