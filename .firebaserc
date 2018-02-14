@@ -1,1 +1,6 @@
-{}
+{
+  "projects": {
+    "stagin": "fir-function-express",
+    "staging": "fir-function-express"
+  }
+}
